@@ -6,9 +6,9 @@ tags:
   - Post Formats
   - notice
 ---
-![image](https://user-images.githubusercontent.com/66521028/139312372-1ae16c1d-2d9d-42c6-896b-91ece7683c9e.png)
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+W![image](https://user-images.githubusercontent.com/66521028/139312508-15fb90e8-4450-47d4-aacc-683a1ceabc4e.png)
+hen using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
