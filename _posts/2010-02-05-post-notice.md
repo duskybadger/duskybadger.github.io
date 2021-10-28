@@ -7,8 +7,6 @@ tags:
   - notice
 ---
 
-![image](https://user-images.githubusercontent.com/66521028/139313548-89825c23-c108-4d3f-8b71-36ac051c6df7.png) 
-![image](https://user-images.githubusercontent.com/66521028/139312758-7341341a-ebbe-4fb0-94c3-c07caa4ef659.png)
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
@@ -34,7 +32,6 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% raw %}{% capture notice-2 %}
 #### New Site Features
 
-![image](https://user-images.githubusercontent.com/66521028/139312018-a85bc2c6-b8bc-4571-84d5-6d0a0e5f11eb.png)
 * Drafts will now auto-save while writing
 {% endcapture %}{% endraw %}
 
