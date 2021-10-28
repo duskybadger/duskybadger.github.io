@@ -7,6 +7,7 @@ tags:
   - notice
 ---
 
+![Making better fantasy football decisions with data](https://user-images.githubusercontent.com/66521028/139314080-2bfeb9cc-3e4e-43bb-b751-6ce0212cd18d.png)
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
