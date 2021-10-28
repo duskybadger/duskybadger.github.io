@@ -43,9 +43,9 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% capture notice-2 %}
 #### New Site Features
 
-* ![image](https://user-images.githubusercontent.com/66521028/139315289-82ec543b-f81e-44ec-b880-21741d4a074f.png)
 * Drafts will now auto-save while writing
 {% endcapture %}
+![image](https://user-images.githubusercontent.com/66521028/139315740-07859122-a14d-4a59-9883-de4f4b01bc4f.png)
 
 <div class="notice">
   {{ notice-2 | markdownify }}
