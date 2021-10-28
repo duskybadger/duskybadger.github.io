@@ -1,6 +1,5 @@
 ---
 title: "Fantasy Football Pipeline"
-![image](https://user-images.githubusercontent.com/66521028/139315092-ac4e06ad-91a9-44f4-91fd-937ab07a3a50.png)
 
 categories:
   - Blog
@@ -44,7 +43,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% capture notice-2 %}
 #### New Site Features
 
-* You can now have cover images on blog pages
+* ![image](https://user-images.githubusercontent.com/66521028/139315289-82ec543b-f81e-44ec-b880-21741d4a074f.png)
 * Drafts will now auto-save while writing
 {% endcapture %}
 
