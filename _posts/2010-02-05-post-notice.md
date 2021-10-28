@@ -8,7 +8,7 @@ tags:
   - notice
 ---
 
-
+![image](https://user-images.githubusercontent.com/66521028/139315854-3c984063-a3ee-4089-816e-9fceef3b5bf8.png)
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
