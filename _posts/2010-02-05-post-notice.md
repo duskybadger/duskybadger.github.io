@@ -7,8 +7,6 @@ tags:
   - notice
 ---
 
-![image](https://user-images.githubusercontent.com/66521028/139311625-c3a859b8-3b90-4553-9440-c6fd11d179ab.png)
-
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
@@ -35,7 +33,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% raw %}{% capture notice-2 %}
 #### New Site Features
 
-* You can now have cover images on blog pages
+![image](https://user-images.githubusercontent.com/66521028/139312018-a85bc2c6-b8bc-4571-84d5-6d0a0e5f11eb.png)
 * Drafts will now auto-save while writing
 {% endcapture %}{% endraw %}
 
