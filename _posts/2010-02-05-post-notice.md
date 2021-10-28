@@ -1,5 +1,7 @@
 ---
 title: "Fantasy Football Pipeline"
+![image](https://user-images.githubusercontent.com/66521028/139315092-ac4e06ad-91a9-44f4-91fd-937ab07a3a50.png)
+
 categories:
   - Blog
 tags:
