@@ -7,8 +7,8 @@ tags:
   - notice
 ---
 
-W![image](https://user-images.githubusercontent.com/66521028/139312508-15fb90e8-4450-47d4-aacc-683a1ceabc4e.png)
-hen using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+![image](https://user-images.githubusercontent.com/66521028/139312758-7341341a-ebbe-4fb0-94c3-c07caa4ef659.png)
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
