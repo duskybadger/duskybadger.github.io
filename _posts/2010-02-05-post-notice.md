@@ -7,7 +7,7 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+![image](https://user-images.githubusercontent.com/66521028/139311625-c3a859b8-3b90-4553-9440-c6fd11d179ab.png)
 
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
