@@ -2,4 +2,4 @@
 permalink: /about/
 title: "About"
 ---
-My goal is to become an expert in GIPS compliance and to work in the growing field of performance measurement. Through my FINRA certifications (Series 7, 63, and 65) and the continuing education requirements of my charter, I have kept up with the changing field of performance measurement. I believe this to be an enormously important and expanding area in the coming years. I plan on sitting for the expert level of the CIPM certification in March..
+Results-focused and detail-driven innovator, passionate about using data to improve business decisions. With a history of success performing in roles that require problem solving and solutions development, my goal is to become an expert in the growing field of data science. My experience working in investment services informs me where the industry has been. My education in data science tells me where it’s going.
