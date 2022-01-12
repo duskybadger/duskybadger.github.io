@@ -1,14 +1,19 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-  - Blog
+title: "Customer Retention with Machine Learning"
+date: 2021-12-29
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Python
+
+
+excerpt: "Keep your clients with Machine Learning"
+header:
+  overlay_image: "/Users/harol/Portfolio/Retention.jpg"
+  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  teaser: "/Users/harol/Portfolio/Retention.jpg"
+  actions:
+    - label: https://github.com/duskybadger/Predicting-Customer-Attrition-with-ML
+
+
 ---
 
-This post has been updated and should show a modified date if used in a layout.
-
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+One of the biggest things we learn in business school is that it is retaining customers is crucial to a business’ life, even more than gaining new customers. Because of this, learning more about your current customers and their feelings about your products is a popular data science application. This project tries to predict customer retention of a bank’s different types of credit cards.
