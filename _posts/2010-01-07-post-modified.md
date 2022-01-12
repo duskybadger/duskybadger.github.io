@@ -16,4 +16,4 @@ header:
 
 ---
 
-One of the biggest things we learn in business school is that it is retaining customers is crucial to a business’ life, even more than gaining new customers. Because of this, learning more about your current customers and their feelings about your products is a popular data science application. This project tries to predict customer retention of a bank’s different types of credit cards.
+One of the biggest things we learn in business school is that it is retaining customers is crucial to a business’s life, even more than gaining new customers. Because of this, learning more about your current customers and their feelings about your products is a popular data science application. This project tries to predict customer retention of a bank’s different types of credit cards.
