@@ -1,0 +1,19 @@
+---
+title: "Customer Clustering with ML"
+date: 2021-10-29
+tags:
+  - Python
+
+
+excerpt: "Give your marketing an edge with Machine Learning"
+header:
+  overlay_image: "/Users/harol/Portfolio/Clustering.jpg"
+  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  teaser: "/Users/harol/Portfolio/Clustering.jpg"
+  actions:
+    - label: https://github.com/duskybadger/Machine-Learning-Project-Expedia-Customer-Clustering
+
+
+---
+
+This project attempts to build a model to empower marketing to learn more about different customer behaviors. This project takes and uses a large dataset, as big a dataset as that found at Expedia, and builds a model to group this data, aka customers, by their activity. The activity could be applied to anything: purchases, clicks, phone calls, etc.
