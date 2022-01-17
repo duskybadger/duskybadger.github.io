@@ -1,11 +1,11 @@
 ---
-title: "Customer Clustering with ML"
+title: "Machine Learning - Customer Clustering to empower marketing"
 date: 2021-10-29
 tags:
   - Python
 
 
-excerpt: "Give your marketing an edge with Machine Learning"
+excerpt: "Empower your marketing team with customer clustering"
 header:
   overlay_image: "/Users/harol/Portfolio/Clustering.jpg"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
